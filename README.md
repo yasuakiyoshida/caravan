@@ -1,6 +1,3 @@
-# DMM WEBCAMPコンテンツ【HTML･CSSを学ぼう】
+# DMM WEBCAMPコンテンツ【Railsを学ぼう】
 
-## DMM WEBCAMP学習コンテンツHTML/CSSを学ぼうで作成したWebサイト
-
-詳細
-html/cssファイル：CARAVANサイト
+DMM WEBCAMP学習コンテンツRailsを学ぼうで作成したWebサイト
